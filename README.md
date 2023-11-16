@@ -40,9 +40,9 @@ To get started with the iMessageChatApplication:
 
 ## Client Test
 
-![Image of Client Application](https://imgur.com/Eztws1U)
+![Image of Client Application](https://i.imgur.com/Eztws1U.png)
 
 
 ## Server and Client Test
 
-![Image of the Server and Client Communicating with Each Other](https://imgur.com/qtZtZkG)
+![Image of the Server and Client Communicating with Each Other](https://i.imgur.com/qtZtZkG.png)
