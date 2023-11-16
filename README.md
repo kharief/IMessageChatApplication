@@ -8,7 +8,7 @@ This application makes use of using java.io and java.net packages to create a ch
 Chatting is a method of using technology to bring people and ideas together, overcoming geographical barriers. While this technology has been available for years, its widespread acceptance is more recent. Our project exemplifies a multiple client-server chat system, consisting of two main components: the Server and the Client.
 
 ## Components
-### #Server
+### Server
 The server module waits for clients to connect. Upon a successful connection, it allows clients to exchange messages. It is the backbone of the application, facilitating the communication between different clients.
 
 ### Client
@@ -35,7 +35,7 @@ To get started with the iMessageChatApplication:
 
 ## Server Test
 
-![Image of Server Application](https://imgur.com/a/zImWHzO)
+![Image of Server Application](https://i.imgur.com/eA4S03t.png)
 
 
 ## Client Test
